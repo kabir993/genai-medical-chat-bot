@@ -1,1 +1,0 @@
-# genai-medical-chat-bot
